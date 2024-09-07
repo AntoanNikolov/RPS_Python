@@ -1,0 +1,1 @@
+Run the program, hold rock, paper or scissors in front of your camera and wait for the camera window to close. In your output terminal, you will see whether you won or lost. NOTE: Use your right hand, and show the outside part of your hand when showing scissors for best accuracy.
